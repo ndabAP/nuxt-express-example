@@ -12,7 +12,7 @@
     "vuex-scaffold": "NODE_PATH=. node ./node_modules/vuex-cli-scaffold/src/index.js"
   },
   "dependencies": {
-    "@nuxtjs/bootstrap-vue": "^2.0.2",
+    "@nuxtjs/bootstrap-vue": "^2.0.4",
     "aws-sdk": "^2.307.0",
     "axios": "^0.18.0",
     "bcrypt": "^1.0.3",
