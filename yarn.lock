@@ -341,9 +341,9 @@ autoprefixer@^7.2.5:
     postcss "^6.0.17"
     postcss-value-parser "^3.2.3"
 
-aws-sdk@^2.307.0:
-  version "2.307.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.307.0.tgz#53a5906d36061d62e7b2ceb243920c7ef8feac97"
+aws-sdk@^2.382.0:
+  version "2.382.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.382.0.tgz#9212bc7aced9c051973578d06ea1978a57ccbd5f"
   dependencies:
     buffer "4.9.1"
     events "1.1.1"
