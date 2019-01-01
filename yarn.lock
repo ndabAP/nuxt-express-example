@@ -1101,8 +1101,8 @@ bootstrap-vue@^1.0.0-beta.7:
     bootstrap "^4.0.0-beta"
 
 bootstrap@^4.0.0-beta:
-  version "4.0.0-beta"
-  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-4.0.0-beta.tgz#dc5928175d2e71310bc668cf9e05a907211b72a6"
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-4.2.1.tgz#8f8bdca024dbf0e8644da32e918c8a03a90a5757"
 
 boxen@^1.2.1:
   version "1.2.1"
