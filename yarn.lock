@@ -7145,9 +7145,9 @@ vue@^2.5.17:
   version "2.5.17"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.5.17.tgz#0f8789ad718be68ca1872629832ed533589c6ada"
 
-vuex-cli-scaffold@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/vuex-cli-scaffold/-/vuex-cli-scaffold-1.0.6.tgz#d08a96d9c41d812930cba9add794f99bb2aae9e7"
+vuex-cli-scaffold@^1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/vuex-cli-scaffold/-/vuex-cli-scaffold-1.0.8.tgz#20a55d8de78717e9f34f473c31556c72639d6c3d"
   dependencies:
     chalk "^2.1.0"
     handlebars "^4.0.10"
