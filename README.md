@@ -22,7 +22,7 @@ First, start the server.
 $ npm run dev
 ```
 
-You can now navigate to [http://localhost:3000](http://localhost:3000).
+You can now navigate to [http://localhost:3000](http://localhost:3000). To login use Alfarr and 123456.
 
 ## Author
 
