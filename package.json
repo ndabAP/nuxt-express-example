@@ -21,7 +21,7 @@
     "express": "^4.17.1",
     "handlebars": "^4.1.2",
     "js-yaml": "^3.13.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "markdown": "^0.5.0",
     "nedb-core": "^3.0.6",
     "nuxt": "^1.4.2",
