@@ -24,7 +24,7 @@
     "lodash": "^4.17.15",
     "markdown": "^0.5.0",
     "nedb-core": "^3.0.6",
-    "nuxt": "^1.4.2",
+    "nuxt": "^2.9.2",
     "source-map-support": "^0.5.12"
   },
   "devDependencies": {
