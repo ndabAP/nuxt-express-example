@@ -28,7 +28,7 @@
     "source-map-support": "^0.5.12"
   },
   "devDependencies": {
-    "babel-eslint": "^7.2.3",
+    "babel-eslint": "^10.0.3",
     "backpack-core": "^0.8.3",
     "eslint": "^4.19.1",
     "eslint-config-standard": "^10.2.1",
