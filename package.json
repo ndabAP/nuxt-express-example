@@ -37,7 +37,7 @@
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-node": "^5.1.1",
     "eslint-plugin-promise": "^3.8.0",
-    "eslint-plugin-standard": "^3.0.1",
+    "eslint-plugin-standard": "^3.1.0",
     "vuex-cli-scaffold": "^1.0.8"
   }
 }
