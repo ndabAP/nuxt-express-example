@@ -1,4 +1,4 @@
-# Nuxt.js with Express.js example project
+# NOT MAINTAINED Nuxt.js with Express.js example project
 
 This is an example project investigating Nuxt.js. It's is a simple Markdown blog.
 
